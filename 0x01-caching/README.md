@@ -1,6 +1,6 @@
 # 0x01. Caching
 
-[CACHE](https://user-images.githubusercontent.com/110098940/255850190-6e24ba2b-d7c4-4c4a-8c81-af6cbb70ddfe.png)
+![CACHE](https://user-images.githubusercontent.com/110098940/255850190-6e24ba2b-d7c4-4c4a-8c81-af6cbb70ddfe.png)
 
 Caching is a powerful technique used to optimize the performance of applications by reducing the time and resources required to access frequently used data or resources. This readme provides an introduction to caching, its benefits, and guidance on implementing an effective caching system
  
